@@ -10,6 +10,12 @@
 
 ###### Hello Github Readme6
 
-[facebook](https://www.facebook.com)
+<!-- [facebook](https://www.facebook.com) -->
 
 ![sekil](./icon-256x256.png)
+
+*Italic* **Bold** ***Italic ve Bold***
+`Github` 
+```
+<div clas="container"></div>
+```
